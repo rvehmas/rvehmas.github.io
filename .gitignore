@@ -1,0 +1,109 @@
+# -----------------------------
+# Jupyter Notebook -välitiedostot
+# -----------------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# JupyterLab-työtilat (ei tarpeen versionoida)
+.jupyter/lab/workspaces/
+
+# -----------------------------
+# Projektin tuottamat kuvat & tulosteet
+# (muokkaa oman rakenteesi mukaan)
+# -----------------------------
+outputs/
+figures/
+reports/
+logs/
+runs/
+tensorboard/
+mlruns/
+wandb/
+
+# Esimerkkidata (pidä vain pienet samplet gitissä)
+data/raw/
+data/interim/
+data/processed/
+# Voit halutessasi sallia pienet CSV:t:
+# !data/raw/*.sample.csv
+
+# Suuret binääriset tiedostot (yleisiä formaatteja)
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.mat
+*.parquet
+
+# -----------------------------
+# Python-välimuistit ja buildit
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build/packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testaus/työkalut
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Tyypintarkistus/linters
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+
+# -----------------------------
+# Virtuaaliympäristöt
+# -----------------------------
+.venv/
+venv/
+ENV/
+env/
+.conda/
+conda_env/
+pip-wheel-metadata/
+
+# Poetryn paikallinen venv (jos käytössä)
+# (Poetryn .venv kannattaa yleensä jättää repoista pois)
+.poetry/
+# Huom: poetry.lock kannattaa yleensä **versionoida**
+
+# -----------------------------
+# IDE/Editorit
+# -----------------------------
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# -----------------------------
+# Käyttöjärjestelmätiedostot
+# -----------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vim/Neovim swapit
+*.swp
+*.swo
+
+# -----------------------------
+# Turvallisuus/avaimet (älä koskaan commitoi oikeita avaimia)
+# -----------------------------
+*.pem
+*.key
+*.crt
+*.p12
+.env
+.env.*
