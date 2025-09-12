@@ -32,7 +32,7 @@ Juuri tämä ennustuskyky tekee fysiikasta kaiken teknologian ja insinöörityö
 
 ## 🎮 Oppiminen kokeilemalla
 
-Näissä materiaaleissa pääset käyttämään **interaktiivisia simulaatioita**, joissa voit kokeilla ja tutkia erilaisia fysiikan lakeja ja periaatteita 🕹️.  Tavoitteena ei ole vain oppia kaavoja ulkoa 📐, vaan rakentaa syvää **intuitiota** siitä, miten luonto toimii 🌌 Kokeilemalla, leikkimällä ja pohtimalla rakennat ymmärrystä, joka menee pintaa syvemmälle 🌊.
+Näissä materiaaleissa pääset käyttämään **interaktiivisia simulaatioita**, joissa voit kokeilla ja tutkia erilaisia fysiikan lakeja ja periaatteita 🕹️.  Tavoitteena ei ole vain oppia kaavoja ulkoa 📐, vaan rakentaa **intuitiota** siitä, miten luonto toimii 🌌. Kokeilemalla, leikkimällä ja pohtimalla rakennat ymmärrystä, joka menee pintaa syvemmälle 🌊.
 
 ---
 
