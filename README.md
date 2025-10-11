@@ -13,13 +13,13 @@ My approach to learning and teaching is centered on **experimentation** and **ga
 
 ## Content Areas
 
-### 🎵 **Music**
+### 🎵 **Music** → [Explore Music Theory](./Music/)
 Explore the fundamental principles of music theory through interactive notebooks that combine mathematics, physics, and auditory learning.
 
-### 🔬 **Physics**
+### 🔬 **Physics** → [Dive into Physics](./Physics/)
 Dive into classical physics concepts with a focus on intuitive understanding and practical applications. Currently featuring periodic motion and wave phenomena.
 
-### 📡 **Radar Technology**
+### 📡 **Radar Technology** → [Learn Radar Systems](./Radar/)
 A comprehensive series covering radar fundamentals, from basic wave propagation to advanced techniques like synthetic aperture radar. This collection provides both theoretical foundations and practical insights into modern radar systems.
 
 ## Featured Work
