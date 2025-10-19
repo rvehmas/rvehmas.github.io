@@ -4,6 +4,7 @@ Dive into classical physics concepts with a focus on intuitive understanding and
 
 ## Available Content
 
+- [Electromagnetism](Electromagnetism.ipynb) - Interactive exploration of electric and magnetic fields with visualizations
 - [Periodic Motion](Periodic_Motion.ipynb) - Interactive exploration of periodic motion and wave phenomena
 - [Physics Overview](Physics.md) - General physics concepts and principles
 
