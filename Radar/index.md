@@ -14,6 +14,12 @@ This collection provides both theoretical foundations and practical insights int
 6. [Radar Images](06_Radar_Images.ipynb) - Image formation and interpretation
 7. [Radar Chirps](07_Radar_Chirps.ipynb) - Frequency modulation in radar
 8. [Synthetic Aperture](08_Synthetic_Aperture.ipynb) - Advanced radar imaging techniques
+9. [SAR Modes](09_SAR_Modes.ipynb) - Different synthetic aperture radar operating modes
+10. [Range and Noise](10_Range_and_Noise.ipynb) - Understanding radar range resolution and noise effects
+11. [Speckle](11_Speckle.ipynb) - Speckle noise in radar imagery and its characteristics
+12. [Geometrical Effects](12_Geometrical_Effects.ipynb) - How geometry affects radar measurements
+13. [Moving Targets](13_Moving_Targets.ipynb) - Detection and analysis of moving objects in radar
+14. [Ambiguities](14_Ambiguities.ipynb) - Range and azimuth ambiguities in radar systems
 
 ## Getting Started
 
